@@ -14,4 +14,4 @@ Approach | Time taken (ms)
 buffer |  796.85
 stream |  911.95
 bun (bun parse-stream.js) | 1084.73
-bun | 459.65
+bun (bun parse-bun.ts)| 459.65
